@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nachef
+- 👋 Hi, I’m @nachef, but my real name is Nathan Victorino
 - 👀 I’m interested in expand my knowledge of programming
 - 🌱 I’m currently learning HTML5, CSS, JAVASCRIPT, TYPESCRIPT and React Native
 - 💞️ I’m looking to collaborate with community
