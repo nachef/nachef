@@ -1,8 +1,18 @@
 - 👋 Hi, I’m @nachef, but my real name is Nathan Victorino
+
+
 - 👀 I’m interested in expand my knowledge of programming
-- 🌱 I’m currently learning more about CSS, JAVASCRIPT, TYPESCRIPT and React Native
-- 💻 I already know about HTML5 and CSS
-- 💞️ I’m looking to collaborate with community
+ <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="">
+
+- 🌱 I’m currently learning more about <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+- 💻 I already know <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" />
+
+- 📫 How to reach me: nathanvic.2001@hotmail.com or nathanvic.2001@gmail.com
+
+
+Social Medias <br>
+<a href="https://www.instagram.com/nathanvictorino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:nathanvic.2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!---
 nachef/nachef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
