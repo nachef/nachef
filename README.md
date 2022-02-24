@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nachef, but my real name is Nathan Victorino
 
 
-- 👀 I’m interested in expand my knowledge of programming
+- 👀 I’m interested in expand my knowledge of programming and if possible find a job!
  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="">
 
 - 💻 Languages and Frameworks I already know <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
