@@ -10,8 +10,12 @@
 
 
 Social Medias <br>
-<a href="https://www.instagram.com/nathanvictorino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:nathanvic.2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="nathanvic.2001@gmail.com" target="blank">
+<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+ <a/>
+<a href="https://instagram.com/nathanvictorino" target="blank">
+    <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="30" />
+  </a>
   <a href="https://linkedin.com/in/nathanvictorino" target="blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="30" /> <a/>
 
