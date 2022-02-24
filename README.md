@@ -10,7 +10,7 @@
 
 
 Social Medias <br>
-<a href="nathanvic.2001@gmail.com">Enviar e-mail
+<a href="nathanvic.2001@gmail.com">
 <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" height="30"/>
  <a/>
 <a href="https://instagram.com/nathanvictorino" target="blank">
