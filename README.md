@@ -11,7 +11,7 @@
 
 Social Medias <br>
 <a href="nathanvic.2001@gmail.com" target="blank">
-<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" height="30"/>
  <a/>
 <a href="https://instagram.com/nathanvictorino" target="blank">
     <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="30" />
