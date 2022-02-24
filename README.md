@@ -23,5 +23,6 @@ You can click the Preview link to take a look at your changes.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachef&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nachef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> 
-
+  <a href="https://linkedin.com/in/nathanvictorino" target="blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="30" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachef)](https://github.com/nachef/github-readme-stats)
