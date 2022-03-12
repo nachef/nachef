@@ -4,7 +4,7 @@
 - 👀 I’m interested in expand my knowledge of programming and if possible find a job!
  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="">
 
-- 💻 Languages and Frameworks I already know <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+- 💻 Languages and Frameworks I already know <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src= "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40" width="40" />
 
 - 📫 How to reach me: nathanvic.2001@gmail.com
 
@@ -15,7 +15,6 @@ Social Medias <br>
   </a>
   <a href="https://linkedin.com/in/nathanvictorino" target="blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="30" />
- <img src= "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30" />
  <a/>
 
 <!---
