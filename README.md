@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Front-end and React Native mobile developer from Brazil</h3>
 
 - 👀 I’m interested in expand my knowledge of programming and if possible find a job!
- <align="center" img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="">
+ <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="">
 
 - 💻 Languages and Frameworks I already know <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src= "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40" width="40" /> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
