@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nachef, but my real name is Nathan Victorino
-
+<h1 align="center">Hi 👋, I'm Nathan Victorino</h1>
+<h3 align="center">I'm a Front-end and React Native mobile developer from Brazil</h3>
 
 - 👀 I’m interested in expand my knowledge of programming and if possible find a job!
  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="">
