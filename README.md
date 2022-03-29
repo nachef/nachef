@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan Victorino</h1>
+<h1 align="center">Hello 👋, I'm Nathan Victorino</h1>
 <h3 align="center">I'm a Front-end and React Native mobile developer from Brazil</h3>
 
 - 👀 I’m interested in expand my knowledge of programming and if possible find a job!
