@@ -6,10 +6,9 @@
 
 - 💻 Languages and Frameworks I already know <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src= "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40" width="40" />
 
-- 📫 How to reach me: nathanvic.2001@gmail.com
 
 
-Social Medias <br>
+Connect with me: <br>
 <a href="https://instagram.com/nathanvictorino" target="blank">
     <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="30" />
   </a>
