@@ -8,7 +8,7 @@
 
 
 
-<h3>Connect with me: </h3> <br>
+<h3>Connect with me: </h3>
 <a href="https://instagram.com/nathanvictorino" target="blank">
     <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="30" />
   </a>
