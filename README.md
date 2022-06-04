@@ -10,10 +10,10 @@
 
 <h3>Connect with me: </h3>
 <a href="https://instagram.com/nathanvictorino" target="blank">
-    <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="30" />
+    <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="50" />
   </a>
   <a href="https://linkedin.com/in/nathanvictorino" target="blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="30" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="50" />
  <a/>
 
 <!---
