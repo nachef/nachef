@@ -1,23 +1,28 @@
-<h1 align="center">Hello 👋, I'm Nathan Victorino</h1>
+<h1 align="center">Hello, I'm Nathan Victorino</h1>
 <h3 align="center">I'm a Front-end developer from Brazil</h3>
 
 - Hi my name is Nathan, I'm glad you are interested in my profile, read a little bit about me: 
 My first contact with code was in 2007, since then I developed such a passion for web and mobile development. I'm very focused on my constant personal evolution and professional career, I'm very happy to do what I love since I was a kid. I practice with two Senior Developers every day and I trust in my abilities to create solutions and solve problems. I have knowledge and some work in companies with Mobile development using React Native.
 
 
-- <h4>💻 Languages and Frameworks I work <h4/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src= "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="60" width="60" /> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+- <h4>🛠 Tech Stack <h4/> 
   
-
- </a>
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react) 
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+  ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=00d8fd)
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 
 <h3>Connect with me: </h3>
 <a href="https://www.instagram.com/nathan_vicc/" target="blank">
-    <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="50" />
+    <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="30" />
   </a>
   <a href="https://linkedin.com/in/nathanvictorino" target="blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="30" />
  <a/>
 
 <!---
