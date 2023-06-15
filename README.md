@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Nathan Victorino</h1>
+<h1 align="center">Hello, I'm Nathan</h1>
 <h3 align="center">I'm a Front-end developer from Brazil</h3>
 
 - Hi my name is Nathan, I'm glad you are interested in my profile, read a little bit about me: 
