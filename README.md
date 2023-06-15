@@ -10,9 +10,9 @@ My first contact with code was in 2007, since then I developed such a passion fo
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react) 
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+  ![Laravel](https://img.shields.io/badge/-Laravel-0A1A2F?style=flat&logo=laravel)
   ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=00d8fd)
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![Laravel](https://img.shields.io/badge/-Laravel-0A1A2F?style=flat&logo=laravel)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
