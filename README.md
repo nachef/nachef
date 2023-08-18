@@ -7,7 +7,7 @@ My first contact with code was in 2007, since then I developed such a passion fo
 
 - <h3>🛠 Tech Stack<h3/> 
   
-  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react.js) 
+  ![React](https://img.shields.io/badge/-React.js-0A1A2F?style=flat&logo=react.js) 
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
   ![Laravel](https://img.shields.io/badge/-Laravel-0A1A2F?style=flat&logo=laravel)
