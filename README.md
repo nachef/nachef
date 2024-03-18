@@ -8,6 +8,9 @@ My first contact with code was in 2007, since then I developed such a passion fo
 - <h3>🛠 Tech Stack<h3/> 
 
 
+<div align="center">
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
+</div>
 
 
 <h3>Contact me: </h3>
